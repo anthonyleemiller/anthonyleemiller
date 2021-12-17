@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @anthonyleemiller
-- 👀 I’m interested in data science and engineering
 
-After graduating from the University of South Florida with a B.S. in Industrial Engineering, I moved and am currently in the logistics industry.
+After graduating from the University of South Florida with a B.S. in Industrial Engineering, I moved into the logistics industry.
 
-I am extremely interested in data science and am working on my programming skills to fortify this interest!
+I am extremely interested in building my programming skills as a hobby and seeing where it takes me.
 
 <!---
 anthonyleemiller/anthonyleemiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
