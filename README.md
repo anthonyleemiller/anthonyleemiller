@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anthonyleemiller
+👋 Hi, I’m @anthonyleemiller
 
 After graduating from the University of South Florida with a B.S. in Industrial Engineering, I moved into the logistics industry.
 
